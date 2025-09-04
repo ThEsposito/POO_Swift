@@ -1,4 +1,6 @@
-public class Animal {
+import Foundation
+
+class Animal {
     let nome: String
     let idade: Int
 
